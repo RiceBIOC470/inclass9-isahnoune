@@ -1,4 +1,10 @@
 % Inclass assignment 9
+%GB comments
+1) 100
+2) 100
+3) 80 Within the loop, the script is indexing within the structure incorrectly. You are missing a ‘i’ in the structure to define your variable hitsmatches. 
+4) 100
+Overall: 95
 
 % The accession number for human NOTCH1 mRNA is AF308602
 
